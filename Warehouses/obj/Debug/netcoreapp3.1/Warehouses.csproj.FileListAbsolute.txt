@@ -1,0 +1,11 @@
+C:\Users\seane\source\repos\Warehouses\Warehouses\bin\Debug\netcoreapp3.1\Warehouses.exe
+C:\Users\seane\source\repos\Warehouses\Warehouses\bin\Debug\netcoreapp3.1\Warehouses.deps.json
+C:\Users\seane\source\repos\Warehouses\Warehouses\bin\Debug\netcoreapp3.1\Warehouses.runtimeconfig.json
+C:\Users\seane\source\repos\Warehouses\Warehouses\bin\Debug\netcoreapp3.1\Warehouses.runtimeconfig.dev.json
+C:\Users\seane\source\repos\Warehouses\Warehouses\bin\Debug\netcoreapp3.1\Warehouses.dll
+C:\Users\seane\source\repos\Warehouses\Warehouses\bin\Debug\netcoreapp3.1\Warehouses.pdb
+C:\Users\seane\source\repos\Warehouses\Warehouses\obj\Debug\netcoreapp3.1\Warehouses.csprojAssemblyReference.cache
+C:\Users\seane\source\repos\Warehouses\Warehouses\obj\Debug\netcoreapp3.1\Warehouses.AssemblyInfoInputs.cache
+C:\Users\seane\source\repos\Warehouses\Warehouses\obj\Debug\netcoreapp3.1\Warehouses.AssemblyInfo.cs
+C:\Users\seane\source\repos\Warehouses\Warehouses\obj\Debug\netcoreapp3.1\Warehouses.dll
+C:\Users\seane\source\repos\Warehouses\Warehouses\obj\Debug\netcoreapp3.1\Warehouses.pdb
